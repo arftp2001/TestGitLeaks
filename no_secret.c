@@ -3,7 +3,7 @@
 
 int main(void)
 {
-	int i = 10;
+	int i = 11;
 	float x = 9;
 	char c = "k";
 	int teste = 3;
